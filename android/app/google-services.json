@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "334169198652",
+    "firebase_url": "https://peerbud-chat-default-rtdb.firebaseio.com",
+    "project_id": "peerbud-chat",
+    "storage_bucket": "peerbud-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334169198652:android:49ee2c5e7c0d6b9e85f339",
+        "android_client_info": {
+          "package_name": "com.imkdev.peerbud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334169198652-bem2m7ussca684ff3q4oca4nm7mf78fv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm_6mC_Hl-UILh-TCBJp7Wj3td0CI2hyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334169198652-bem2m7ussca684ff3q4oca4nm7mf78fv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
